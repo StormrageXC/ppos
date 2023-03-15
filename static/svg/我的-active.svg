@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>我的-active</title>
+    <defs>
+        <path d="M8.88835663,0 L14.4441804,0 L14.4441804,5.55582372 C14.4441804,8.62501587 11.9575488,11.1115358 8.88835663,11.1115358 C5.81916448,11.1115358 3.33261661,8.62501587 3.33261661,5.55582372 C3.33261661,2.48663158 5.81916448,0 8.88835663,0 Z M3.8883636,12.2231414 L13.8884334,12.2231414 C16.0356681,12.2231414 17.7767929,13.9642662 17.7767929,16.1116126 L17.7767929,16.6673596 C17.7767929,18.5088748 16.2835193,20 14.4441804,20 L3.33261661,20 C1.49110132,20 2.0343444e-06,18.5066985 2.0343444e-06,16.6673596 L2.0343444e-06,16.1116126 C-0.00217226375,13.9642662 1.73884093,12.2231414 3.8883636,12.2231414 Z" id="path-1"></path>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="svg" transform="translate(-209.000000, -138.000000)">
+            <g id="我的-active" transform="translate(209.000000, 138.000000)">
+                <rect id="Rectangle-21备份" x="0" y="0" width="24" height="24"></rect>
+                <g transform="translate(3.000000, 2.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="我的" fill="#4966F5" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    <circle id="椭圆形" fill="#FF801A" mask="url(#mask-2)" cx="16.5" cy="23" r="8"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
